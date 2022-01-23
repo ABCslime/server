@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+
     <Footer />
   </div>
 </template>
@@ -8,8 +9,9 @@
 
 import Footer from '../components/Footer.vue'
 
+
 export default {
-  name: 'App',
+  name: 'Home',
   components: {
     Footer
   }
